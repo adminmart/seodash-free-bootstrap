@@ -1,9 +1,9 @@
-# <a href="https://demos.adminmart.com/free/bootstrap/modernize-bootstrap-lite/src/html/index.html">Modernize Free Bootstrap</a>
-Modernize Bootstrap 5 admin Template
+# <a href="https://demos.adminmart.com/free/bootstrap/modernize-bootstrap-lite/src/html/index.html">SeoDash Free Bootstrap</a>
+SeoDash Bootstrap 5 admin Template
 
 <!-- Main image of Template -->
 <a target="_blank" href="https://adminmart.com/product/modernize-free-bootstrap-5-admin-template/?ref=5">
-  <img src="https://adminmart.com/wp-content/uploads/2023/02/modenize-free-bootstrap-admin-template.png" />
+  <img src="https://adminmart.com/wp-content/uploads/2024/06/SEODash-Bootstrap_light.jpg" />
 </a>
 
 
@@ -12,8 +12,8 @@ Modernize Bootstrap 5 admin Template
 <table>
 <thead>
 <tr>
-<th>Modernize Bootstrap Free Version</th>
-<th>Modernize Bootstrap Pro Version</th>
+<th>SeoDash Bootstrap Free Version</th>
+<th>SeoDash Bootstrap Pro Version</th>
 </tr>
 </thead>
 <tbody>
@@ -38,7 +38,7 @@ Modernize Bootstrap 5 admin Template
   1 Basic Dashboard
   </td>
   <td>
-  6+ Stunning Dashboards
+  3+ Stunning Dashboards
   </td>
 </tr>
 <tr>
@@ -148,7 +148,7 @@ Modernize Bootstrap 5 admin Template
 <tr>
 <td>
   <a href="https://adminmart.com/product/modernize-bootstrap-5-admin-template/?ref=5" rel="nofollow" width="150px">
-    <img src="https://adminmart.com/wp-content/uploads/2023/02/modernize-bootstrap-5-admin-template.png" alt="" style="max-width:150px;">
+    <img src="https://adminmart.com/wp-content/uploads/2024/06/seo-dash-bootstrap-admin-template.png" alt="" style="max-width:150px;">
   </a>
 </td>
 <td>
@@ -174,10 +174,10 @@ Modernize Bootstrap 5 admin Template
 # Upgrade to Premium version
 
 <a target="_blank" href="https://adminmart.com/product/modernize-bootstrap-5-admin-template/?ref=5">
-  <img src="https://adminmart.com/wp-content/uploads/2023/02/modernize-bootstrap-5-admin-template.png" alt="">
+  <img src="https://adminmart.com/wp-content/uploads/2024/06/seo-dash-bootstrap-admin-template.png" alt="">
 </a>
 <p>
-  Checkout our premium version of Modernize Bootstrap Admin Lite for lots more features and ready to use page templates.<br>
+  Checkout our premium version of SeoDash Bootstrap Admin Lite for lots more features and ready to use page templates.<br>
   <a href="https://bootstrapdemos.adminmart.com/modernize/dist/main/index.html">Check Live Preview</a> | <a href="https://adminmart.com/product/modernize-bootstrap-5-admin-template/?ref=5">Download</a>
 </p>
 
