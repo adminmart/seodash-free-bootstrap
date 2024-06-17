@@ -1,8 +1,8 @@
-# <a href="https://demos.adminmart.com/free/bootstrap/modernize-bootstrap-lite/src/html/index.html">SeoDash Free Bootstrap</a>
+# <a href="https://bootstrapdemos.adminmart.com/seodash-free/src/html/index.html">SeoDash Free Bootstrap</a>
 SeoDash Bootstrap 5 admin Template
 
 <!-- Main image of Template -->
-<a target="_blank" href="https://adminmart.com/product/modernize-free-bootstrap-5-admin-template/?ref=5">
+<a target="_blank" href="https://adminmart.com/product/seodash-free-bootstrap-reporting-dashboard-template/?ref=5">
   <img src="https://adminmart.com/wp-content/uploads/2024/06/SEODash-Bootstrap_light.jpg" />
 </a>
 
@@ -19,18 +19,18 @@ SeoDash Bootstrap 5 admin Template
 <tbody>
 <tr>
   <td>
-    <a href="https://demos.adminmart.com/free/bootstrap/modernize-bootstrap-lite/src/html/index.html">Live Preview</a>
+    <a href="https://bootstrapdemos.adminmart.com/seodash-free/src/html/index.html">Live Preview</a>
   </td>
   <td>
-  <a href="https://bootstrapdemos.adminmart.com/modernize/dist/main/index.html">Live Preview</a>
+  <a href="https://bootstrapdemos.adminmart.com/seodash/dist/main/">Live Preview</a>
   </td>
 </tr>
 <tr>
   <td>
-    <a href="https://adminmart.com/product/modernize-free-bootstrap-5-admin-template/?ref=5">Download Now</a>
+    <a href="https://adminmart.com/product/seodash-free-bootstrap-reporting-dashboard-template/?ref=5">Download Now</a>
   </td>
   <td>
-    <a href="https://adminmart.com/product/modernize-bootstrap-5-admin-template/?ref=5">Purchase Now</a>
+    <a href="https://adminmart.com/product/seodash-bootstrap-reporting-dashboard-template/?ref=5">Purchase Now</a>
   </td>
 </tr>
 <tr>
@@ -147,7 +147,7 @@ SeoDash Bootstrap 5 admin Template
 <tbody>
 <tr>
 <td>
-  <a href="https://adminmart.com/product/modernize-bootstrap-5-admin-template/?ref=5" rel="nofollow" width="150px">
+  <a href="https://adminmart.com/product/seodash-bootstrap-reporting-dashboard-template/?ref=5" rel="nofollow" width="150px">
     <img src="https://adminmart.com/wp-content/uploads/2024/06/seo-dash-bootstrap-admin-template.png" alt="" style="max-width:150px;">
   </a>
 </td>
@@ -173,20 +173,20 @@ SeoDash Bootstrap 5 admin Template
 
 # Upgrade to Premium version
 
-<a target="_blank" href="https://adminmart.com/product/modernize-bootstrap-5-admin-template/?ref=5">
+<a target="_blank" href="https://adminmart.com/product/seodash-bootstrap-reporting-dashboard-template/?ref=5">
   <img src="https://adminmart.com/wp-content/uploads/2024/06/seo-dash-bootstrap-admin-template.png" alt="">
 </a>
 <p>
   Checkout our premium version of SeoDash Bootstrap Admin Lite for lots more features and ready to use page templates.<br>
-  <a href="https://bootstrapdemos.adminmart.com/modernize/dist/main/index.html">Check Live Preview</a> | <a href="https://adminmart.com/product/modernize-bootstrap-5-admin-template/?ref=5">Download</a>
+  <a href="https://bootstrapdemos.adminmart.com/seodash/dist/main/">Check Live Preview</a> | <a href="https://adminmart.com/product/seodash-bootstrap-reporting-dashboard-template/?ref=5">Download</a>
 </p>
 
 
 <!-- Useful Links of Template -->
 # Useful Links
 - <p><a href="https://adminmart.com/?ref=5">Admin Theme</a> from Adminmart</p>
-- <p><a href="https://adminmart.com/product/modernize-bootstrap-5-admin-template/?ref=5">Bootstrap Themes</a> from Adminmart</p>
-- <p><a href="https://adminmart.com/product/modernize-free-bootstrap-5-admin-template/?ref=5">Free Bootstrap Admin Templates</a> from Adminmart</p>
+- <p><a href="https://adminmart.com/product/seodash-bootstrap-reporting-dashboard-template/?ref=5">Bootstrap Themes</a> from Adminmart</p>
+- <p><a href="https://adminmart.com/product/seodash-free-bootstrap-reporting-dashboard-template/?ref=5">Free Bootstrap Admin Templates</a> from Adminmart</p>
 - <p><a href="https://adminmart.com/product/modernize-react-mui-dashboard-theme/?ref=5">React Bootstrap Template</a> from Adminmart</p>
 - <p><a href="https://adminmart.com/product/modernize-vuetify-vue-admin-dashboard/?ref=5">Vuejs Templates</a> from Adminmart</p>
 

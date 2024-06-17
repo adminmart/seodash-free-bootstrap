@@ -16901,6 +16901,11 @@ ul {
   margin-bottom: 30px;
 }
 
+.auth-card{
+  max-width: 460px;
+  width: 100%;
+}
+
 .card-hover {
   -webkit-transition: 0.2s ease-in;
   transition: 0.2s ease-in;
