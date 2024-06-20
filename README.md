@@ -3,7 +3,7 @@ SeoDash Bootstrap 5 admin Template
 
 <!-- Main image of Template -->
 <a target="_blank" href="https://adminmart.com/product/seodash-free-bootstrap-reporting-dashboard-template/?ref=5">
-  <img src="https://adminmart.com/wp-content/uploads/2024/06/SEODash-Bootstrap_light.jpg" />
+  <img src="https://adminmart.com/wp-content/uploads/2024/06/free-seodash-bootstrap.jpg" />
 </a>
 
 
