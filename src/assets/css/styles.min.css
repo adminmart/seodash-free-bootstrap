@@ -16796,13 +16796,16 @@ textarea.form-control-lg {
 }
 .page-wrapper {
   position: relative;
+  min-height: 100vh;
   background-color: #f6f8fa;
 }
 
 .body-wrapper {
   position: relative;
+  min-height: 100vh;
 }
 .body-wrapper > .container-fluid, .body-wrapper > .container-sm, .body-wrapper > .container-md, .body-wrapper > .container-lg, .body-wrapper > .container-xl, .body-wrapper > .container-xxl {
+  min-height: calc(100vh - 70px);
   max-width: 1300px;
   margin: 0 auto;
   padding: 30px;
@@ -16901,7 +16904,7 @@ ul {
   margin-bottom: 30px;
 }
 
-.auth-card{
+.auth-card {
   max-width: 460px;
   width: 100%;
 }

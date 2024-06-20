@@ -4,13 +4,16 @@
 
 .page-wrapper {
   position: relative;
+  min-height: 100vh;
   background-color: #f6f8fa;
 }
 
 .body-wrapper {
   position: relative;
+  min-height: 100vh;
 
   >.container-fluid {
+    min-height: calc(100vh - 70px);
     max-width: $boxed-width;
     margin: 0 auto;
     padding: $grid-gutter-width;
